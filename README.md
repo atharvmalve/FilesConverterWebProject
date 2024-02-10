@@ -26,12 +26,8 @@ FilesConverterWebProject is a web application designed to convert various file f
 3. Install dependencies (if any): Backend dependencies managed via Maven.
 4. Deploy the application on a Java servlet container (e.g., Apache Tomcat).
 
-## Usage
-1. Access the application via a web browser by navigating to the deployed URL.
-2. Choose the desired file conversion option from the provided menu.
-3. Upload the file to be converted.
-4. Initiate the conversion process.
-5. Once the conversion is complete, download the converted file.
+## Screenshot
+> ![Screenshot](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## License
 This project is licensed under the [MIT License](https://itzmanish.tech/).
