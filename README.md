@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](https://itzmanish.tech/).
 
 ## Contact
 For any inquiries or feedback, please contact:
-- Manish Kumar: manish@example.com
+- ManishKumar: manish@example.com
 - Atharvmalve: atharv@example.com
 
 > Thank you!
