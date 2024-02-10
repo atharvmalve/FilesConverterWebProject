@@ -32,6 +32,13 @@ FilesConverterWebProject is a web application designed to convert various file f
 ## License
 This project is licensed under the [MIT License](https://itzmanish.tech/).
 
+
+> [!NOTE]
+> This is not for commercial Use!
+
+> [!WARNING]
+> Don't try to make it yours!
+
 ## Contact
 For any inquiries or feedback, please contact:
 - Manish Kumar: manish@example.com
