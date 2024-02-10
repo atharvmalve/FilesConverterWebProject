@@ -13,17 +13,15 @@ FilesConverterWebProject is a web application designed to convert various file f
 ## Technologies Used
 ### Backend (Manish Kumar)
 - **Java**: Utilized for backend development, handling file conversions, and server-side operations.
-- **Spring Framework**: Employed for dependency injection, MVC architecture, and facilitating integration with other frameworks.
 - **Libraries for file manipulation and conversion**: Libraries such as Apache PDFBox for PDF handling and ImageIO for image conversion.
 
 ### Frontend (Atharvmalve)
 - **HTML**: Structure and content markup.
 - **CSS**: Styling and layout design.
 - **JavaScript**: Client-side scripting for interactive elements and user experience enhancements.
-- **Frontend frameworks/libraries (optional)**: Frameworks like Bootstrap or libraries like jQuery for rapid development and enhanced UI components.
 
 ## Installation
-1. Clone the repository from GitHub: `git clone https://github.com/manishkumar/FilesConverterWebProject.git`
+1. Clone the repository from GitHub: `git clone https://github.com/ig-imanish/FilesConverterWebProject.git`
 2. Navigate to the project directory: `cd FilesConverterWebProject`
 3. Install dependencies (if any): Backend dependencies managed via Maven.
 4. Deploy the application on a Java servlet container (e.g., Apache Tomcat).
@@ -35,20 +33,12 @@ FilesConverterWebProject is a web application designed to convert various file f
 4. Initiate the conversion process.
 5. Once the conversion is complete, download the converted file.
 
-## Contributing
-Contributions to FilesConverterWebProject are welcome! To contribute, follow these steps:
-- Fork the repository.
-- Create a new branch for your feature or bug fix: `git checkout -b feature/my-feature`
-- Make your changes and commit them: `git commit -am 'Add new feature'`
-- Push to the branch: `git push origin feature/my-feature`
-- Submit a pull request detailing the changes made.
-
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://itzmanish.tech/).
 
 ## Contact
 For any inquiries or feedback, please contact:
 - Manish Kumar: manish@example.com
 - Atharvmalve: atharv@example.com
 
-Thank you for using FilesConverterWebProject!
+> Thank you!
